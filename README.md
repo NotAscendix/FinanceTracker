@@ -8,7 +8,7 @@ Database: Postgres SQL
 **How to use**
 Select an option: Create new, update, or delete
 - Fill in the blank values to add or update transaction.
-- Enter id value to update to delete transaction.
+- Enter id value to update or delete transaction.
   
 
 
